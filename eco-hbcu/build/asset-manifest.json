@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eco-hbcu/static/css/main.5f098bc6.css",
+    "main.js": "/eco-hbcu/static/js/main.f7752ffc.js",
+    "static/js/453.2118f151.chunk.js": "/eco-hbcu/static/js/453.2118f151.chunk.js",
+    "index.html": "/eco-hbcu/index.html",
+    "main.5f098bc6.css.map": "/eco-hbcu/static/css/main.5f098bc6.css.map",
+    "main.f7752ffc.js.map": "/eco-hbcu/static/js/main.f7752ffc.js.map",
+    "453.2118f151.chunk.js.map": "/eco-hbcu/static/js/453.2118f151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f098bc6.css",
+    "static/js/main.f7752ffc.js"
+  ]
+}
